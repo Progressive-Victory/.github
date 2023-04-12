@@ -1,9 +1,7 @@
 <div align="center">
-  <div>
     <p>
-      <a href="https://discord.js.org/"><img src="https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png" width="720" alt="progressive victory banner" /></a>
+      <a href="https://progressivevictory.win/"><img src="https://user-images.githubusercontent.com/11844002/230267579-abe1407a-4fdd-447e-a590-37011d2a8e2c.png" width="720" alt="progressive victory banner" /></a>
     </p>
-  </div>
   <h2>What is Progressive Victory</h2>
   <h3>By the Internet, For America</h3>
   <p>
