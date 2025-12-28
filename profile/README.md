@@ -12,13 +12,8 @@
   </P
   <p>
     <a href="https://progressivevictory.win/volunteer">Volunteer Form / Server Access</a>
-    <br />
-    <a href="https://github.com/orgs/Progressive-Victory/projects/5">Website Project</a>
-    <br />
-    <a href="https://github.com/orgs/Progressive-Victory/projects/3">Backend + PVBot Project</a>
-    <br />
   </p>
   <p>
-    If you are looking to contribute and need access to the projects, contact <code>Okami#4269</code> on Discord.
+    If you are looking to contribute and need access to the projects, join the discord and check out our engineering team channel.
   </p>
 </div>
